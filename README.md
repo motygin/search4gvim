@@ -1,0 +1,1 @@
+Enhanced Search and Search&Replace dialogs based on Perl-Gtk2. Functions Msearch() and Mreplace() are intended to replace native gvim's commands promptfind and promptrepl. Added features: verbose search and history of search and replace patterns. 
